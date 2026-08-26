@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Text Formatting Tags</title>
+</head>
+
+<body>
+<h1>HTML Text Formatting Tags</h1>
+<hr>
+<marquee>Welcome to My HTML Text Formatting Page</marquee>
+<hr>
+<p><b>This is Bold Text</b></p>
+
+<p><i>This is Italic Text</i></p>
+
+<p><u>This is Underlined Text</u></p>
+
+<p><strike>This is Strike Text</strike></p>
+
+<p>Water Formula: H<sub>2</sub>O</p>
+
+<p>Mathematical Expression: X<sup>2</sup> + Y<sup>2</sup></p>
+
+<p><font color="blue" size="5" face="Arial"> This text uses Font Tag </font></p>
+<hr>
+<p> This is the first line.<br> This is the second line after using BR tag. </p>
+
+</body>
+</html>
