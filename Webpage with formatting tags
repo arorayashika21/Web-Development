@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Text formatting Tags</title>
+</head>
+<body bgcolor=pink text=purple>
+<h1><center>Delhi-The Heart of India</center></h1>
+<marquee bgcolor=purple><h3><font color=white>Welcome to Delhi – The Capital of India!</font></h3></marquee>
+<hr color=purple>
+
+<h2>About Delhi</h2>
+<p>
+<b>Delhi</b> is the capital city of <i>India</i>.
+It is famous for its <u>historical monuments</u>,food and culture.
+</p> 
+
+<p>
+Delhi has a rich history and is home to many famous monuments such as the <b>Red Fort</b> and <b>India Gate</b>.
+</p>
+
+<hr color=purple>
+<h2>Famous Places</h2>
+
+<p>
+<b>1. Red Fort</b><br>
+The Red Fort is one of the most famous historical monuments in Delhi.
+</p>
+
+<p>
+<b>2. India Gate</b><br>
+India Gate is a famous war memorial located in New Delhi.
+</p>
+
+<p>
+<b>3. Qutub Minar</b><br>
+Qutub Minar is a famous historical monument of Delhi.
+</p>
+
+<hr color=purple>
+<h2>Interesting Facts</h2>
+<p>Water is represented as H<sub>2</sub>O.</p>
+
+<p>The square of 5 can be written as 5<sup>2</sup> = 25.</p>
+
+<p><strike>Delhi is the smallest city in India.</strike><br>
+Delhi is one of the major cities of India.</p>
+
+<hr color=purple>
+<font color="black" size="5" face="Arial">
+Delhi is a city where history meets modern life!
+</font>
+
+</body>
+</html>
